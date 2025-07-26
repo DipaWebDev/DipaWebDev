@@ -8,7 +8,7 @@
 ### 🎯 About Me
 
 - 💻 I love building simple websites that *work*!
-- 🔧 Currently building: Sistem Informasi Disiplin Siswa
+- 🔧 Currently building: Sistem Informasi Disiplin Positif Siswa
 - 🌱 Learning JavaScript & UI/UX step by step
 - 🧠 Always curious and exploring cool features
 - ✍️ Motto: *"Build first, polish later!"*
