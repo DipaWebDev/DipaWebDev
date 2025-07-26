@@ -1,41 +1,60 @@
-<h1 align="center">🎮 Hi, I'm Dipa 👋</h1>
-
+<h1 align="center">✨ Hi, I'm Dipa 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Web+Developer+from+Indonesia;Loves+HTML%2C+CSS%2C+PHP%2C+MySQL;Always+learning+and+building!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=450&lines=Web+Developer+from+Indonesia;PHP+%7C+HTML+%7C+CSS+%7C+MySQL;Learning+JavaScript+slowly+but+surely!;Welcome+to+my+space+👾" />
 </p>
 
 ---
 
-### 🕹️ Play My Mini RPG Game!
+### 🎯 About Me
 
-<p align="center">
-  <img src="https://media.giphy.com/media/d31vTpVi1LAcDvdm/giphy.gif" width="250" />
-</p>
-
-<p align="center">
-  <a href="https://htmlpreview.github.io/?https://raw.githubusercontent.com/DipaWebDev/DipaWebDev/main/game/index.html" target="_blank">
-    <img src="https://img.shields.io/badge/Play%20Now-HTML%20Preview-green?style=for-the-badge&logo=game-controller&logoColor=white">
-  </a>
-</p>
+- 💻 I love building simple websites that *work*!
+- 🔧 Currently building: Sistem Informasi Disiplin Siswa
+- 🌱 Learning JavaScript & UI/UX step by step
+- 🧠 Always curious and exploring cool features
+- ✍️ Motto: *"Build first, polish later!"*
 
 ---
 
-### 💻 My Tech Stack
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
+### 💼 Tech Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,vscode,github" />
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DipaWebDev&show_icons=true&theme=tokyonight" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DipaWebDev&layout=compact&theme=tokyonight" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=DipaWebDev&show_icons=true&theme=radical&hide_title=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DipaWebDev&layout=compact&theme=radical" height="170"/>
 </p>
 
 ---
 
-> “Keep it simple, make it work, learn every day.” 💡
+### 🔥 GitHub Streak & Trophy
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DipaWebDev&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DipaWebDev&theme=gruvbox&column=7&margin-w=10" />
+</p>
+
+---
+
+### ✨ Just for Fun
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"/> 
+</p>
+
+> _“Every great dev was once a beginner who didn’t quit.”_
+
+---
+
+### 📫 Connect with Me
+
+- 📧 Email: **[dipanopriasukaryadi@gmail.com]**
+- 🌐 Website/Portfolio (https://dipalearn.great-site.net/) at media sosial
