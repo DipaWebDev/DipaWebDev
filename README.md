@@ -57,4 +57,4 @@
 ### 📫 Connect with Me
 
 - 📧 Email: **[dipanopriasukaryadi@gmail.com]**
-- 🌐 Website/Portfolio (https://dipalearn.great-site.net/) at media sosial
+- 🌐 Website (https://koncohost.site)
