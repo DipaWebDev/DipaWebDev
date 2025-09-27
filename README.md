@@ -18,8 +18,8 @@
 ### Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,vscode,github,tailwind" /><img src="https://greensock.com/uploads/monthly_2020_03/greensock-icon.svg.32f8c9fa02f06dbf1e66b63c52e0c597.svg" 
-     alt="GSAP" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,vscode,github,tailwind" /> <img src="https://cdn.simpleicons.org/greensock/88CE02" alt="GSAP" width="48" height="48" />
+
 
 </p>
 
