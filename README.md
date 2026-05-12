@@ -18,7 +18,7 @@
 ### Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,vscode,github,tailwind" /> <img src="https://cdn.simpleicons.org/greensock/88CE02" alt="GSAP" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,vscode,github,tailwind,react,typescript,express" /> <img src="https://cdn.simpleicons.org/greensock/88CE02" alt="GSAP" width="48" height="48" />
 
 
 </p>
