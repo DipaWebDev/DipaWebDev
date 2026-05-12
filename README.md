@@ -25,15 +25,6 @@
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DipaWebDev&show_icons=true&theme=radical&hide_title=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DipaWebDev&layout=compact&theme=radical" height="170"/>
-</p>
-
----
-
 ### GitHub Streak & Trophy
 
 <p align="center">
@@ -59,4 +50,4 @@
 ### Connect with Me
 
 - Email: **[dipanopriasukaryadi@gmail.com]**
-- Website (https://koncohost.site)
+- Website (https://koncohost.my.id)
