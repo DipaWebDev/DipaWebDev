@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Dipa</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=450&lines=Web+Developer+from+Indonesia;PHP+%7C+HTML+%7C+CSS+%7C+MySQL;Learning+JavaScript+slowly+but+surely!;Welcome+to+my+space+👾" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=450&lines=Web+Developer+Indonesia;PHP+%7C+Tailwind+%7C+Css+%7C+React+%7C+JSMySQL;Welcome+to+my+space+👾" />
 </p>
 
 ---
